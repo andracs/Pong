@@ -263,8 +263,10 @@ public class PongApp extends GameApplication {
         //objektet med en metode, med to parameter, hvor den ene er string, og den anden er et objekt med to parameter
         ball.setProperty("velocity", new Point2D(BALL_SPEED, BALL_SPEED));
     }
-    //Main metoden i JAVAFX
+    //Main metoden i JAVAFX..En statisk publik(Tilgængelig for alle) main metode, med en parameter, som er en
+    //String array
     public static void main(String[] args) {
+        //Kører arrayet, rettere sagt alt i denne klasse. Klassen er tilføjet til en String Array, som køres
         launch(args);
     }
 }
