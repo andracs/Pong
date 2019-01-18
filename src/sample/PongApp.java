@@ -258,11 +258,12 @@ public class PongApp extends GameApplication {
     }
     //En privat(Kan kun tilgås fra denne klasse) metode uden parameter
     private void resetBall() {
-        //Objektet har en metode to parametre, som sætter
+        //Objektet har en metode to parametre
         ball.setPosition(getWidth() / 2 - BALL_SIZE / 2, getHeight() / 2 - BALL_SIZE / 2);
+        //objektet med en metode, med to parameter, hvor den ene er string, og den anden er et objekt med to parameter
         ball.setProperty("velocity", new Point2D(BALL_SPEED, BALL_SPEED));
     }
-
+    //Main metoden i JAVAFX
     public static void main(String[] args) {
         launch(args);
     }
