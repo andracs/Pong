@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 Et multiplayer SPIL, med to padler, og en bold. Bolden svinger
 mellem venstre og højre padler. Hvis den ene padle ikke
 kan ramme bolden, scorer den anden padle et point. Da spillet
