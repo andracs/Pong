@@ -11,3 +11,6 @@ Projektet har givet mig indblik i hvordan spil kan udvikles
 med java. Derudover har vi masser af gratis redskaber vi
 kan udvikle spil med. 
 
+Spillet virker nu, efter jeg har ændret i kildekoden. Jeg har
+ændret boldens hastighed, hvor ændringen har medført at
+spillet nu virker, som den skal.
