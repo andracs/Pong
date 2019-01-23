@@ -1,5 +1,3 @@
-![alt text](http://url/to/img.png)
-
 Et multiplayer SPIL, med to padler, og en bold. Bolden svinger
 mellem venstre og højre padler. Hvis den ene padle ikke
 kan ramme bolden, scorer den anden padle et point. Da spillet
@@ -13,3 +11,6 @@ Projektet har givet mig indblik i hvordan spil kan udvikles
 med java. Derudover har vi masser af gratis redskaber vi
 kan udvikle spil med. 
 
+Spillet virker nu, efter jeg har ændret i kildekoden. Jeg har
+ændret boldens hastighed, hvor ændringen har medført at
+spillet nu virker, som den skal.

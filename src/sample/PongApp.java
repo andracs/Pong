@@ -34,7 +34,7 @@ public class PongApp extends GameApplication {
     private static final int PADDLE_SPEED = 5;
     //En privat(kun tilgængelig i denne klasse) statisk final(har et fast værdi) integer
     //med en erklæring og deklarering af bold hastigheden(hastigheden til at flytte), som angives til 4
-    private static final int BALL_SPEED = 4;
+    private static final int BALL_SPEED = 5;
 
     //Privat objekt af klassen Entity, hvor objektet hedder paddle1
     private Entity paddle1;
